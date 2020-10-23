@@ -2,10 +2,15 @@
 Threads will run concurrently if they're on the same processor. But in parallel if they're on different processors!
 
 Pre-Requisites : 
+
 How as a good C++  cross  compiler. 
+
 How variables, loops, conditionals, etc. work (Basic coding fundamentals will help a lot!)
+
 Linux (Terminal/Console proficiency) (We're going to need to compile our stuff)
+
 Gone through the all preceding parts of the tutorial
+
 Some familiarity with threading will help
 
 Each thread has its own call stack, but all threads share the heap.
